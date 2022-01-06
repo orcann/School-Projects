@@ -1,0 +1,12 @@
+CreateFile
+prog1.p
+2
+3
+CreateDir
+first
+CreateFile
+test.t
+A
+EndDir
+quit
+
